@@ -91,9 +91,12 @@ intentar
 intento
 ir
 junto
+k
+ke
 la
 las
 le
+les
 lo
 los
 mas
@@ -127,6 +130,9 @@ primero
 puede
 puedo
 pues
+q
+qu
+qe
 que
 qué
 querer
