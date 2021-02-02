@@ -130,3 +130,7 @@ dmypy.json
 
 # Intellij conf
 .idea/
+
+# Embeddings
+
+data/embeddings/
