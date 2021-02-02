@@ -1,0 +1,10 @@
+pandas
+numpy==1.19.3
+spacy
+nltk
+regex
+matplotlib
+seaborn
+torch
+scikit-learn
+simpletransformers
