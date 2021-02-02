@@ -6,5 +6,6 @@ regex
 matplotlib
 seaborn
 torch
+tensorflow
 scikit-learn
 simpletransformers
