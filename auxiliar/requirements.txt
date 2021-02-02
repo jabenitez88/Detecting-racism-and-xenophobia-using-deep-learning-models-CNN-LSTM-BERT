@@ -9,3 +9,5 @@ torch
 tensorflow
 scikit-learn
 simpletransformers
+keras
+gensim
