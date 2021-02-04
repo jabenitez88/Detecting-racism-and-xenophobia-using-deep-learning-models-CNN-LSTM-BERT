@@ -132,5 +132,12 @@ dmypy.json
 .idea/
 
 # Embeddings
-
 data/embeddings/
+
+# BETO files
+jupyter/.ipynb_checkpoints
+jupyter/cache_dir
+jupyter/outputs
+jupyter/runs
+
+
